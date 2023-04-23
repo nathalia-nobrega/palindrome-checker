@@ -63,25 +63,5 @@ function verifyPalindrome() {
     inputWord.focus()
 
     
+    }
 }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
